@@ -1,0 +1,9 @@
+{
+  "name": "Soliman Web3 #0",
+  "description": "My first Web3 NFT — built with Foundry + OpenZeppelin.",
+  "image": "ipfs://bafkreia2rku2jugefx7njvg6w7stg7mikyhs4dcfhpkqlgpaeixq2ckb2i",
+  "attributes": [
+    { "trait_type": "Creator", "value": "Soliman" },
+    { "trait_type": "Type", "value": "Learning Project" }
+  ]
+}
